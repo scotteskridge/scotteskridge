@@ -5,7 +5,7 @@
 I design the rules, skills, hooks and tests that make AI coding agents reliable, then direct them to ship real work.
 
 ### What I've been building
-- **[Hall of Echoing Mirrors](https://github.com/scotteskridge/hall-of-echoing-mirrors)** (Unity 6, public): an agent-driven game workflow with 11 custom Claude Code skills,
+- **Hall of Echoing Mirrors** (private, Unity 6): an agent-driven game workflow with 11 custom Claude Code skills,
   path-scoped rules, Python hooks that bounce rule-breaking edits back to the agent, a fresh-context reviewer subagent,
   and an MCP link to the Unity Editor. Hard rule: tests are never weakened to pass. 377 commits, 53 feature plans,
   900+ tests in under two weeks.
@@ -13,7 +13,7 @@ I design the rules, skills, hooks and tests that make AI coding agents reliable,
   pipeline with before/after style scoring, permission guardrails, git checkpoints and a human-in-the-loop decision log.
 
 *Both built by directing Claude Code. My part is the architecture, agent rules, guardrails, test strategy and review.
-The game repo is public; the novel stays private (walkthrough on request).*
+Walkthroughs available on request.*
 
 ### Background
 - 18 months (May 2024 to Mar 2026) red-teaming and evaluating frontier LLMs as an AI trainer at DataAnnotation.tech
